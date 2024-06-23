@@ -70,3 +70,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity files
+**/Intermediate/*
+**/Saved/*
+**/Build/*
+**/Binaries/*
+**/Android_ATSC/*
+**/WindowsNoEditor/*
+**/Windows/*
+**/DerivedDataCache/*
+
+# Environment 
+*.env
+/venv
+/env
